@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="container">
       <div className="header">
-        <h1>To-Do App</h1>
+        <h1>Things To Be Done</h1>
       </div>
       <div className="inputControl">
         <input
